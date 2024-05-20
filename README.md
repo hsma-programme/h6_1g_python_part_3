@@ -11,26 +11,26 @@ Your changes will then be saved to your own account, and you can access your edi
 
 ---
 
-Open Exercise 1 in Google Colab: <a target="_blank" href="https://github.com/Bergam0t/additional_hsma_notebooks/blob/main/hsma_6_1g_exercise_1.ipynb">
+Open Exercise 1 in Google Colab: <a target="_blank" href="https://colab.research.google.com/github/Bergam0t/additional_hsma_notebooks/blob/main/hsma_6_1g_exercise_1.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
 ---
 
-Open Exercise 2 in Google Colab: <a target="_blank" href="https://github.com/Bergam0t/additional_hsma_notebooks/blob/main/hsma_6_1g_exercise_2.ipynb">
+Open Exercise 2 in Google Colab: <a target="_blank" href="https://colab.research.google.com/github/Bergam0t/additional_hsma_notebooks/blob/main/hsma_6_1g_exercise_2.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
 ---
 
-Open Exercise 3 in Google Colab: <a target="_blank" href="https://github.com/Bergam0t/additional_hsma_notebooks/blob/main/hsma_6_1g_exercise_3.ipynb">
+Open Exercise 3 in Google Colab: <a target="_blank" href="https://colab.research.google.com/github/Bergam0t/additional_hsma_notebooks/blob/main/hsma_6_1g_exercise_3.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
 ---
 
 
-Open Exercise 4 in Google Colab: <a target="_blank" href="https://github.com/Bergam0t/additional_hsma_notebooks/blob/main/hsma_6_1g_exercise_4.ipynb">
+Open Exercise 4 in Google Colab: <a target="_blank" href="https://colab.research.google.com/github/Bergam0t/additional_hsma_notebooks/blob/main/hsma_6_1g_exercise_4.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
